@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/wordmark.svg" width="300" alt="Origin IDE" />
+  <img src="../media/wordmark.svg" width="300" alt="Origin IDE" />
 </p>
 <p align="center">
   A fast, agentic code editor built for AI-first development.<br/>
@@ -18,14 +18,14 @@
 
 ## Screenshots
 
-<img src="media/origin-1-ss.png" alt="Origin IDE - Welcome screen with AI panel" width="100%" />
+<img src="../media/origin-1-ss.png" alt="Origin IDE - Welcome screen with AI panel" width="100%" />
 <p align="center"><em>Welcome screen</em></p>
 <details>
 <summary>More screenshots</summary>
 <br/>
-<img src="media/origin-2-ss.png" alt="Origin IDE - Code editor" width="100%" />
+<img src="../media/origin-2-ss.png" alt="Origin IDE - Code editor" width="100%" />
 <p align="center"><em>Code editor with syntax highlighting and integrated terminal</em></p>
-<img src="media/origin-3-ss.png" alt="Origin IDE - Command palette" width="100%" />
+<img src="../media/origin-3-ss.png" alt="Origin IDE - Command palette" width="100%" />
 <p align="center"><em>Command palette with fuzzy file search and AI panel</em></p>
 </details>
 
